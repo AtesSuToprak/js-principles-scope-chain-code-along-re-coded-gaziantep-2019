@@ -1,7 +1,7 @@
 /* Your code goes here */
  customerName = 'bob';
 
-function upperCaseCustomerName() {
+/*function upperCaseCustomerName() {
   customerName = 'BOB';
 }
 
@@ -19,7 +19,7 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'denno';
 }
  
-
+ */
 function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = 'jess';
   let favoriteCustomer = 'Ciara';
